@@ -1,5 +1,4 @@
 float bias_offset, bias_delta;
-int calibration_readings = 100;
 
 int sample_counter = 0;
 int piezo_value;
@@ -13,9 +12,8 @@ void setup(){
   // calibration routine for bias voltage
   long calibration_value = 0;
   
-  for(int i = 0; i < 100; i++){
+  for(int i = 0; i < 1000; i++){
     bias_offset += analogRead(A0) * 0.001; // add 1/100
-    delay(1); //wait 1ms for next reading
   }
   Serial.print("### bias: ");
   Serial.println(bias_offset);

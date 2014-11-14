@@ -79,12 +79,21 @@ output: speaker, motor, solenoid, led, lamps, relais
 
 [sparkfun](http://www.sparkfun.com)
 
+###PCB
+[KiCad Software](http://kicad-pcb.org/)
+
+[PCB Manufacturer](https://www.mikrocontroller.net/articles/Platinenhersteller)
+
 ###Sonderteile
 ####Electret Mikrofone
-	JLI-120A-T (cardioid)
-	[Transsound](http://www.jlielectronics.com/search.php?search_query=mic&show=1)
-	EM172 (high sensitivity omni), EM184 (high sensitivity uni)
-	[Primo Mic](http://www.primomic.de)
+
+JLI-120A-T (cardioid)
+
+[Transsound](http://www.jlielectronics.com/search.php?search_query=mic&show=1)
+
+EM172 (high sensitivity omni), EM184 (high sensitivity uni)
+
+[Primo Mic](http://www.primomic.de)
 
 
 
