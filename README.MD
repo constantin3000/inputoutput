@@ -80,7 +80,7 @@ output: speaker, motor, solenoid, led, lamps, relais
 [sparkfun](http://www.sparkfun.com)
 
 ###PCB
-[KiCad Software](http://kicad-pcb.org/)
+[KiCad Software](http://kicad.org/)
 
 [PCB Manufacturer](https://www.mikrocontroller.net/articles/Platinenhersteller)
 
